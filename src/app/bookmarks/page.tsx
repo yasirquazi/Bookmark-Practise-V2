@@ -1,3 +1,4 @@
+'use client';
 import { useEffect, useState } from 'react';
 import styles from './bookmarks.module.css';
 import { useRouter } from 'next/navigation';
